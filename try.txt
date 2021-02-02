@@ -1,0 +1,3 @@
+task 002 - jenkins
+
+Provide a sample demonstration that uses jenkins by automating the pull process of your repo when you are push to your repo. 
